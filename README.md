@@ -1,4 +1,4 @@
-# Flask-ToDo-Task-Master
+# ToDo Task Master - Flask + Heroku
 A ToDo Task Master Web App with Python &amp; Flask deployed on Heroku.
 1. Build ToDo App
   - Add task
